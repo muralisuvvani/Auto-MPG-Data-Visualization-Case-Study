@@ -1,7 +1,7 @@
 
 
 # Auto-MPG Data Visualization and Exploratory Data Analysis (EDA) 
-�
+
 ## Project Overview
 
 This repository hosts a comprehensive Exploratory Data Analysis (EDA) and Data Visualization case study focusing on the Auto-MPG dataset. The project aims to derive meaningful insights into vehicle performance metrics, particularly focusing on the relationship between fuel efficiency (mpg) and other attributes like horsepower, weight, and origin of manufacture, using robust statistical and graphical methods.
